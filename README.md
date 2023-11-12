@@ -1,6 +1,4 @@
 # skyline-tech
-skyline-tech
-# skyline-tech
 skyline-tech | By Chijioke Daniel | Cohort 11
 
 # TABLE 1

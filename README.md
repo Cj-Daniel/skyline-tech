@@ -1,7 +1,5 @@
 # skyline-tech
 skyline-tech
-# skyline-tech
-skyline-tech
 
 
 #TABLE 2

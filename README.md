@@ -1,6 +1,4 @@
 # skyline-tech
-skyline-tech
-# skyline-tech
 skyline-tech | bY Chijioke Daniel | Cohort 11
 
 

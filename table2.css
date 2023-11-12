@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    padding-top: 50px;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+
+table {
+    width: 100%;
+    
+
+}
+
+table, th, td {
+    
+    border-collapse: collapse;
+    height: 60px;
+    text-align: center;
+    border: none;
+    border: 1px solid rgb(232, 227, 227);
+}
+
+th {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.tick {
+    color: rgb(81, 162, 44);
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+
+td button {
+    padding: 2px 5px;
+}
+
+
+tr:nth-child(even){
+    background-color: rgba(241, 241, 241, 0.958);
+}
+
+
